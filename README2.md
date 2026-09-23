@@ -1,8 +1,12 @@
 # Premier-Test-UML
 ```mermaid
 classDiagram
-  class Heros {
-    +String nom
-    +String pseudonyme
+  class Participants {
+    +String Merbah
+    +String Yanis
+    +String Julie
+    +String Direnzo
+    +String Nicolas
+    +String Rabian
   }
 ```
