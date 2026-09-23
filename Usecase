@@ -10,7 +10,6 @@ usecase
   User --> ViewProfile
   Admin --> ManageUsers
   Admin --> ViewReports
-
 classDiagram
   class Participants {
     + Merbah
