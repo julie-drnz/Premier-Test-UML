@@ -1,5 +1,5 @@
 ```mermaid
-classeDiagram
+classDiagram
  class Heros {
    +String nom
    +String pseudonyme
