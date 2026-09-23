@@ -1,5 +1,5 @@
 ```mermaid
-usecase-beta
+usecase
   actor User("User")
   actor Admin("Administrator")
   Login("Log in")
@@ -10,8 +10,7 @@ usecase-beta
   User --> ViewProfile
   Admin --> ManageUsers
   Admin --> ViewReports
-```
-```mermaid
+
 classDiagram
   class Participants {
     + Merbah
